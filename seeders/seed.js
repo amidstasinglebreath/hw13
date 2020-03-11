@@ -12,9 +12,9 @@ let workoutSeed = [
     exercises: [
       {
         type: "resistance",
-        name: "Bicep Curl",
+        name: "Tricep Extension",
         duration: 20,
-        weight: 100,
+        weight: 50,
         reps: 10,
         sets: 4
       }
@@ -40,7 +40,7 @@ let workoutSeed = [
         type: "resistance",
         name: "Push Press",
         duration: 25,
-        weight: 185,
+        weight: 210,
         reps: 8,
         sets: 4
       }
@@ -64,7 +64,7 @@ let workoutSeed = [
         type: "resistance",
         name: "Bench Press",
         duration: 20,
-        weight: 285,
+        weight: 250,
         reps: 10,
         sets: 4
       }
